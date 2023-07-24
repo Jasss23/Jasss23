@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on UPenn MCIT 
+- 🔭 I’m currently working on UPenn MCIT
+https://github.com/Jasss23/gihubSNK/blob/output/github-contribution-grid-snake.svg
 <!--
 **Jasss23/Jasss23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
