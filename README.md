@@ -1,8 +1,5 @@
-### Hi there 👋
-- 🔭 I’m currently working on UPenn MCIT
-
 ![](https://raw.githubusercontent.com/Jasss23/gihubSNK/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-
+![](https://raw.githubusercontent.com/Jasss23/gihubSNK/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <!--
 **Jasss23/Jasss23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
